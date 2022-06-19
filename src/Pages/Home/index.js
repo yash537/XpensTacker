@@ -14,6 +14,8 @@ const Home = () => {
             sdhskagdsjhfhgdjhfgdsjfhgdfiyuergfiusfds
             <p>shdkjsadhkshjjhgfjhdfhgdjhf</p>
           </h1>
+          <h6>sdsaudhsiudhasuydgh</h6>
+          <p>dsbdhasbdkashdsjhdgsjdh</p>
         </div>
       </div>
     </div>
